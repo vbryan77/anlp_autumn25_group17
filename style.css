@@ -1,0 +1,42 @@
+.custom-title {
+    font-size: 50px;
+    color: #00072d;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+    line-height:1.1;
+}
+.skill-bubble {
+    display: inline-block;
+    background-color: #e0f0ff;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease-in-out;
+    margin-top:20px;
+    color: #003366;
+    padding: 8px 14px;
+    margin: 5px 5px 5px 0;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.sub-text1 {
+    color: #000e5a;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sub-text2 {
+    color: #000e5a;
+    margin-bottom: -150px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.custom-success {
+    background-color: #e0f0ff;     
+    color: #003366;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px;
+}
